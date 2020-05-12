@@ -1,0 +1,44 @@
+body {
+    background-color: WhiteSmoke;
+    background-size: auto 100vh;
+    font-family: yu gothic light; 
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: #00688B;
+  }
+  
+  .menu ul {
+    display: flex; 
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none;  
+  }
+  
+  a {
+    color: PapayaWhip; 
+    text-decoration: none;    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: #2F4F4F;
+    text-align: center; 
+    font-size: big;
+   
+   
+  }  
+  
+  .site-subtitle {
+    font-size: medium;
+    font-style: bold;
+    font-family: yu gothic light;
+    
+  }
